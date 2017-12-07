@@ -1,2 +1,2 @@
 # CSV
-PHP CSV library to manipulate csv values easily
+PHP CSV library is an easy to use library to manipulate csv values easily
